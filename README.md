@@ -2,6 +2,8 @@
 
 - I'm learning UNITY.
 
+![Woojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujin0561&show_icons=true&theme=radical)
+##
 <!--
 **korysanan/Korysanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
