@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/java-%2342429C.svg?style=for-the-badge&logo=java&logoColor=white"/>  
+<img src="https://img.shields.io/badge/java-%2342429C.svg?style=for-the-badge&logo=java&logoColor=white"/>    
 </p>
 
 ### Engine
@@ -13,6 +13,7 @@
 
 ### Stats
 ![ujin0561's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujin0561&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ujin0561)](https://solved.ac/ujin0561/)
 
 ##
 <!--
