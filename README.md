@@ -9,10 +9,6 @@
 ### Engine
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
 
-### Stats
-![ujin0561's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujin0561&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ujin0561)](https://solved.ac/ujin0561/)
-
 ##
 <!--
 **korysanan/Korysanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
