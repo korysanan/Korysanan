@@ -1,9 +1,11 @@
-### ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Woojin's%20GitHub%20%20&fontAlign=27&fontSize=30&textBg=true&desc=I'm%20an%20aspiring%20virtual%20%reality%20develper&descAlign=70&descAlignY=50) 
+### ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Woojin's%20GitHub%20%20&fontAlign=27&fontSize=30&textBg=true&desc=I'm%20an%20aspiring%20develper&descAlign=70&descAlignY=50) 
 
 ### Languages
 <p>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
+<img src="[https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)"/>  
+  
 </p>
 
 ### Engine
