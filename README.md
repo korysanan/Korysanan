@@ -1,32 +1,37 @@
-### ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Woojin's%20GitHub%20%20&fontAlign=27&fontSize=30&textBg=true&desc=I'm%20an%20aspiring%20develper&descAlign=70&descAlignY=50) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:c6acf6,100:E6B9F7&width=1500&height=240&section=header&text=Hello%20World✋%20I'm%20WooJin!&fontSize=50&fontColor=ffffff )  
 
-### Languages
-<p>
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
-<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
+
+<div align="center">
+  <br>
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=35&pause=1000&color=blue&center=true&vCenter=true&width=1000&lines=“가상현실+게임+개발자를+꿈꾸고+있습니다.”;“미래를+준비하며+고민하는+개발자+입니다.”;)](https://git.io/typing-svg) 
   
-</p>
+</div>
 
-### Engine
-<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+<br>
 
-##
+ 
+## Stacks 📖
+<div align="center">
+  <img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/virtual%20reality-0071BC?style=for-the-badge&logo=virtual-reality&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujin0561)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**korysanan/Korysanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## Contact📫
+<div align=center>
+  <a href="mailto:ujin2019136098@gmail.com"> <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ujin2019136098@gmail.com"> </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github-stats ⏲️  
