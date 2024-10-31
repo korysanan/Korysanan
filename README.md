@@ -64,7 +64,16 @@
 
 
 
-## Github-stats ⏲️  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Korysanan&show_icons=true&theme=dracula" alt="Anurag's GitHub stats">
-</div>
+## Github-stats ⏲️
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Korysanan&show_icons=true&theme=dracula" alt="Anurag's GitHub stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Korysanan&layout=compact&theme=dracula" alt="Top Languages">
+    </td>
+  </tr>
+</table>
+
