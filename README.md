@@ -46,6 +46,11 @@
     <th style="text-align: center;">결과</th>
   </tr>
   <tr>
+    <td style="text-align: center;">2019</td>
+    <td style="text-align: center;">교내 K-Sharing 학습콘텐츠 공모전 수업콘텐츠 분야</td>
+    <td style="text-align: center;">우수상</td>
+  </tr>
+  <tr>
     <td style="text-align: center;">2024</td>
     <td style="text-align: center;">교내 2024학년도 제 30회 졸업연구작품전시회 컴퓨터공학부</td>
     <td style="text-align: center;">우수작품상</td>
