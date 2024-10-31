@@ -12,6 +12,8 @@
 
 ## About Me 🌟
 <div align="center">
+   🎂<strong>Birth</strong>: 2000.02.07
+   <br>
    🎓<strong>한국기술교육대학교 컴퓨터공학부 (2019.03 ~ )</strong>  
    <br>
    📫<strong>Email</strong>: ujin2019136098@gmail.com  
@@ -35,8 +37,27 @@
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
 
+## Competitions & Awards 🏆
 
-<br>
+<table align="center">
+  <tr>
+    <th style="text-align: center;">연도</th>
+    <th style="text-align: center;">대회 이름</th>
+    <th style="text-align: center;">결과</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">2024</td>
+    <td style="text-align: center;">교내 2024학년도 제 30회 졸업연구작품전시회 컴퓨터공학부</td>
+    <td style="text-align: center;">우수작품상</td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">2024</td>
+    <td style="text-align: center;">2024년 메타버스 개발자 경진대회</td>
+    <td style="text-align: center;">3차 평가 탈락</td>
+  </tr>
+</table>
+
+
 
 ## Github-stats ⏲️  
 <div align="center">
