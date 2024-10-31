@@ -10,7 +10,16 @@
 
 <br>
 
- 
+## About Me 🌟
+<div align="center">
+   🎓<strong>한국기술교육대학교 컴퓨터공학부 (2019.03 ~ )</strong>  
+   <br>
+   📫<strong>Email</strong>: ujin2019136098@gmail.com  
+   <br>
+   🚀 가상현실 게임 개발자를 목표로 정진하고 있습니다.
+</div>
+
+
 ## Stacks 📖
 <div align="center">
   <img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -28,12 +37,6 @@
 
 
 <br>
-
-## Contact 📫
-<div align="center">
-  ✉️ Email: ujin2019136098@gmail.com 
-
-</div>
 
 ## Github-stats ⏲️  
 <div align="center">
