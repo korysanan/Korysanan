@@ -29,9 +29,13 @@
 
 <br>
 
-## Contact📫
-<div align=center>
-  <a href="mailto:ujin2019136098@gmail.com"> <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ujin2019136098@gmail.com"> </a>
+## Contact 📫
+<div align="center">
+  ✉️ Email: ujin2019136098@gmail.com 
+
 </div>
 
 ## Github-stats ⏲️  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Korysanan&show_icons=true&theme=dracula" alt="Anurag's GitHub stats">
+</div>
