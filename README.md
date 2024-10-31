@@ -57,7 +57,7 @@
   </tr>
   <tr>
     <td style="text-align: center;">2024</td>
-    <td style="text-align: center;">2024년 메타버스 개발자 경진대회</td>
+    <td style="text-align: center;">2024년 메타버스 개발자 경진대회 [팀: Mesion]</td>
     <td style="text-align: center;">3차 평가 탈락</td>
   </tr>
 </table>
