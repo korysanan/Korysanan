@@ -1,13 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:c6acf6,100:E6B9F7&width=1500&height=240&section=header&text=Hello%20World✋%20I'm%20WooJin!&fontSize=50&fontColor=ffffff )  
 
 
-<div align="center">
-  <br>
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=35&pause=1000&color=blue&center=true&vCenter=true&width=1000&lines=“가상현실+게임+개발자를+꿈꾸고+있습니다.”;“미래를+준비하며+고민하는+개발자+입니다.”;)](https://git.io/typing-svg) 
-  
-</div>
-
 <br>
 
 ## About Me 🌟
@@ -17,8 +10,7 @@
    🎓<strong>한국기술교육대학교 컴퓨터공학부 (2019.03 ~ )</strong>  
    <br>
    📫<strong>Email</strong>: ujin2019136098@gmail.com  
-   <br>
-   🚀 가상현실 게임 개발자를 목표로 정진하고 있습니다.
+
 </div>
 
 
