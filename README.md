@@ -7,7 +7,7 @@
 <div align="center">
    🎂<strong>Birth</strong>: 2000.02.07
    <br>
-   🎓<strong>한국기술교육대학교 컴퓨터공학부 (2019.03 ~ )</strong>  
+   🎓<strong>한국기술교육대학교 컴퓨터공학부 (2019.03 ~ 2025.02)</strong>  
    <br>
    📫<strong>Email</strong>: ujin2019136098@gmail.com  
 
@@ -50,7 +50,7 @@
   <tr>
     <td style="text-align: center;">2024</td>
     <td style="text-align: center;">2024년 메타버스 개발자 경진대회 [팀: Mesion]</td>
-    <td style="text-align: center;">3차 평가 탈락</td>
+    <td style="text-align: center;">최종 평가 진출</td>
   </tr>
 </table>
 
