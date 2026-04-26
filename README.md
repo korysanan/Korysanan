@@ -8,7 +8,7 @@
    <br>
    🎓 <strong>한국기술교육대학교 컴퓨터공학부</strong> (2019.03 ~ 2025.02)  
    <br>
-   💼 <strong>SIMSREALITY(심스리얼리티)</strong> (2025.04.01 ~ 2026.03.31)
+   💼 <strong>SIMSREALITY (심스리얼리티)</strong> (2025.04.01 ~ 2026.03.31)
    <br>
    📫 <strong>Email</strong>: ujin2019136098@gmail.com  
 </div>
@@ -28,6 +28,8 @@
   - PC 및 VR 환경 통합 시뮬레이션 시스템 구축  
   - Mirror 네트워크를 활용한 멀티플레이 서버 구현  
 
+- SVN 기반 형상관리 환경에서 협업 개발  
+
 <br>
 
 ## Tech Stack 🎯
@@ -41,14 +43,15 @@
 <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
 
-### 🧩 Development
+### 🧩 Core Skills
 <img src="https://img.shields.io/badge/Networking-UDP%20%2F%20TCP-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Multiplayer-Mirror-green?style=for-the-badge">
 <img src="https://img.shields.io/badge/Physics-Chaos%20Vehicle-orange?style=for-the-badge">
 <img src="https://img.shields.io/badge/UI-UMG%20%2F%20UnityUI-yellow?style=for-the-badge">
 
-### 🛠 Tools
+### 🛠 Tools & Collaboration
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 
