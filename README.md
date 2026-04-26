@@ -8,7 +8,7 @@
    <br>
    🎓 <strong>한국기술교육대학교 컴퓨터공학부</strong> (2019.03 ~ 2025.02)  
    <br>
-   💼 <strong>SimSReality (심스리얼리티)</strong> (2025.04.01 ~ 2026.03.31)
+   💼 <strong>SIMSREALITY(심스리얼리티)</strong> (2025.04.01 ~ 2026.03.31)
    <br>
    📫 <strong>Email</strong>: ujin2019136098@gmail.com  
 </div>
@@ -17,7 +17,7 @@
 
 ## Career 💼
 
-**SimSReality (심스리얼리티)**  
+**SIMSREALITY (심스리얼리티)**  
 2025.04.01 ~ 2026.03.31  
 
 - Unreal Engine 기반 차량 시뮬레이션 개발  
